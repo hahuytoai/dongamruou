@@ -1,0 +1,1 @@
+.. include:: ../minhmangthang.rst
