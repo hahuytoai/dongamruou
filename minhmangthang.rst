@@ -367,16 +367,15 @@ Video: Minh mạng thang 36 vị năm 2020
 
 
 Tổng hợp các video khác
-*************************************
+
 Các bài viết khác có thể bạn chưa xem
-*************************************
+
 
 `Đồ ngâm rượu <https://hahuytoai.com/do-ngam-ruou>`_
 
 
-***************************************************************
 **Mua minh mạng thang ở đâu Hà Nội, Hồ Chí Minh, Sài Gòn, Đà Nẵng**
-***************************************************************
+
 
 Quý khách có nhu cầu mua minh mạng thang vui lòng liên hệ tại
 
@@ -405,16 +404,16 @@ Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlis
    :align: center
    
    
-*************************************
+
 Các bài viết khác có thể bạn chưa xem
-*************************************
+
 
 `Đồ ngâm rượu <https://hahuytoai.com/do-ngam-ruou>`_
 
 
-***************************************************************
+
 **Mua minh mạng thang ở đâu Hà Nội, Hồ Chí Minh, Sài Gòn, Đà Nẵng**
-***************************************************************
+
 
 Quý khách có nhu cầu mua minh mạng thang vui lòng liên hệ tại
 
