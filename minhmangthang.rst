@@ -372,11 +372,18 @@ Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlis
 `https://www.youtube.com/playlist?list=PLejr7_EdIH0ckym84da8girAdIaybLA6d <https://www.youtube.com/playlist?list=PLejr7_EdIH0ckym84da8girAdIaybLA6d>`_
 
 
-**************************
-Mua minh mạng thang ở đâu Hà Nội, Hồ Chí Minh, Sài Gòn, Đà Nẵng
-***************************
+***************************************************************
+**Mua minh mạng thang ở đâu Hà Nội, Hồ Chí Minh, Sài Gòn, Đà Nẵng**
+***************************************************************
+Quý khách có nhu cầu mua minh mạng thang vui lòng liên hệ tại
+
 Địa chỉ: 23a Ngõ 137 Đ. Bát Khối, Long Biên, Hà Nội 100000, Việt Nam
-Liên hệ: +84932340345
+
+Hoặc vui lòng liên hệ qua số điện thoại, zalo số: 
+
++84932340345
+Để được tư vấn và gửi minh mạng thang
+
 
 .. raw:: html
     <div style="text-align: center; margin-bottom: 2em;">
@@ -393,7 +400,6 @@ Liên hệ: +84932340345
         Điện thoại: 0932 340 345
 
 .. image:: /img/ky-tu-minh-mang-thang.jpg
-
 
 *************************************
 Các bài viết khác có thể bạn chưa xem
