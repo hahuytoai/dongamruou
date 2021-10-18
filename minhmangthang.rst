@@ -382,9 +382,9 @@ Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlis
         
 .. image:: /img/ky-tu-minh-mang-thang.jpg
    :alt: "kỷ tử trong thang minh mang thang"
-   :align: center        
-      
-
+   :align: center
+   
+   
 *************************************
 Các bài viết khác có thể bạn chưa xem
 *************************************
