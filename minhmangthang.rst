@@ -318,7 +318,7 @@ Mỗi ngày dùng 3 lần vào 3 thời điểm để thấy những hiệu qu�
 MINH MẠNG THANG GIÁ BAO NHIÊU? MUA Ở ĐÂU
 ****************************************
 
-Hiện nay `minh mạng thang <https://sites.google.com/view/thaomochht/minh-mang-thang-36-vi>`_ được bán khá phổ biến trên thị trường. Bạn có thể mua tại `thảo mộc hht <https://www.facebook.com/thaomochahuytoai.hht/>`_
+Hiện nay minh mạng thang được bán khá phổ biến trên thị trường. Bạn có thể mua tại `thảo mộc hht <https://www.facebook.com/thaomochahuytoai.hht/>`_
 
 Tuy nhiên, trong quá trình mua bạn nên tìm đến những địa chỉ mua hàng uy tín, chất lượng để tránh mua phải thuốc giả, trộn, lẫn những vị thuốc khác. Điều sẽ khiến người dùng không cảm thấy những tác dụng như mong muốn.
 
@@ -373,7 +373,7 @@ Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlis
 
 
 **************************
-Mua minh mạng thang ở đâu
+Mua minh mạng thang ở đâu Hà Nội, Hồ Chí Minh, Sài Gòn, Đà Nẵng
 ***************************
 Địa chỉ: 23a Ngõ 137 Đ. Bát Khối, Long Biên, Hà Nội 100000, Việt Nam
 Liên hệ: +84932340345
