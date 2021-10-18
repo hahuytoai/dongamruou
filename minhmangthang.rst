@@ -379,8 +379,11 @@ Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlis
         Địa chỉ: Nhà 23a, Ngõ 137 đường Bát Khối, phường Long Biên, quận Long Biên, Hà Nội
 
         Điện thoại: 0932 340 345
-
+        
 .. image:: /img/ky-tu-minh-mang-thang.jpg
+   :alt: "kỷ tử trong thang minh mang thang"
+   :align: center        
+      
 
 *************************************
 Các bài viết khác có thể bạn chưa xem
