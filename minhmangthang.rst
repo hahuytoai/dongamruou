@@ -367,6 +367,26 @@ Video: Minh mạng thang 36 vị năm 2020
 
 
 Tổng hợp các video khác
+*************************************
+Các bài viết khác có thể bạn chưa xem
+*************************************
+
+`Đồ ngâm rượu <https://hahuytoai.com/do-ngam-ruou>`_
+
+
+***************************************************************
+**Mua minh mạng thang ở đâu Hà Nội, Hồ Chí Minh, Sài Gòn, Đà Nẵng**
+***************************************************************
+
+Quý khách có nhu cầu mua minh mạng thang vui lòng liên hệ tại
+
+Địa chỉ: 23a Ngõ 137 Đ. Bát Khối, Long Biên, Hà Nội 100000, Việt Nam
+
+Hoặc vui lòng liên hệ qua số điện thoại, zalo số: 
+
++84932340345
+Để được tư vấn và gửi minh mạng thang
+
 
 Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlist?list=PLejr7_EdIH0ckym84da8girAdIaybLA6d>`_
 ===================================================================================================================
@@ -407,8 +427,5 @@ Hoặc vui lòng liên hệ qua số điện thoại, zalo số:
 
 
         
-        
-.. image:: /img/ky-tu-minh-mang-thang.jpg
-   :alt: "kỷ tử trong thang minh mang thang"
-   :align: center        
+    
       
