@@ -366,8 +366,7 @@ Video: Minh mạng thang 36 vị năm 2020
     </div>
     
     
-
-Tổng hợp các video khác
+    Tổng hợp các video khác
 
 Tổng hợp các `video về minh mạng thang <https://www.youtube.com/playlist?list=PLejr7_EdIH0ckym84da8girAdIaybLA6d>`_
 ===================================================================================================================
@@ -416,3 +415,9 @@ Các bài viết khác có thể bạn chưa xem
 *************************************
 
 `Đồ ngâm rượu <https://hahuytoai.com/do-ngam-ruou>`_
+
+    
+    
+    
+      
+
