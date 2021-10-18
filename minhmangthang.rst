@@ -406,3 +406,9 @@ Hoặc vui lòng liên hệ qua số điện thoại, zalo số:
 Để được tư vấn và gửi minh mạng thang
 
 
+        
+        
+.. image:: /img/ky-tu-minh-mang-thang.jpg
+   :alt: "kỷ tử trong thang minh mang thang"
+   :align: center        
+      
